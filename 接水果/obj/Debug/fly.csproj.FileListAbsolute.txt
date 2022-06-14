@@ -1,0 +1,12 @@
+E:\Documents\source\repos\fly\bin\Debug\fly.exe
+E:\Documents\source\repos\fly\bin\Debug\fly.exe.config
+E:\Documents\source\repos\fly\obj\Debug\fly.csproj.AssemblyReference.cache
+E:\Documents\source\repos\fly\obj\Debug\fly.csproj.SuggestedBindingRedirects.cache
+E:\Documents\source\repos\fly\obj\Debug\fly.Gameload.resources
+E:\Documents\source\repos\fly\obj\Debug\fly.Gameover.resources
+E:\Documents\source\repos\fly\obj\Debug\fly.Gamewait.resources
+E:\Documents\source\repos\fly\obj\Debug\fly.Properties.Resources.resources
+E:\Documents\source\repos\fly\obj\Debug\fly.csproj.GenerateResource.cache
+E:\Documents\source\repos\fly\obj\Debug\fly.csproj.CoreCompileInputs.cache
+E:\Documents\source\repos\fly\obj\Debug\fly.exe
+E:\Documents\source\repos\fly\obj\Debug\fly.pdb

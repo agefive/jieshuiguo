@@ -1,0 +1,14 @@
+E:\Documents\source\repos\fly\bin\Debug\fly.exe
+E:\Documents\source\repos\接水果\bin\Debug\fly.exe.config
+E:\Documents\source\repos\接水果\bin\Debug\fly.exe
+E:\Documents\source\repos\接水果\bin\Debug\fly.pdb
+E:\Documents\source\repos\接水果\obj\Debug\接水果.csproj.AssemblyReference.cache
+E:\Documents\source\repos\接水果\obj\Debug\接水果.csproj.SuggestedBindingRedirects.cache
+E:\Documents\source\repos\接水果\obj\Debug\fly.Properties.Resources.resources
+E:\Documents\source\repos\接水果\obj\Debug\接水果.csproj.GenerateResource.cache
+E:\Documents\source\repos\接水果\obj\Debug\接水果.csproj.CoreCompileInputs.cache
+E:\Documents\source\repos\接水果\obj\Debug\fly.exe
+E:\Documents\source\repos\接水果\obj\Debug\fly.pdb
+E:\Documents\source\repos\接水果\obj\Debug\接水果.Gameload.resources
+E:\Documents\source\repos\接水果\obj\Debug\接水果.Gameover.resources
+E:\Documents\source\repos\接水果\obj\Debug\接水果.Gamewait.resources
